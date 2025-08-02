@@ -47,6 +47,4 @@ This project provides an interactive dashboard for customer segmentation and ana
 
 ---
 
-## Screenshots
 
-_Add screenshots of your dashboard# customer-segmentation-analysis
