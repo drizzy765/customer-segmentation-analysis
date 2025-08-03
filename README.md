@@ -32,10 +32,13 @@ This project provides an interactive dashboard for customer segmentation and ana
    ```
 
 4. **Open the dashboard in your browser**  
-   - For the Dash dashboard:  
-     [http://127.0.0.1:8050/](http://127.0.0.1:8050/)
-   - For the Streamlit app (if you use it):  
-     [http://localhost:8501/](http://localhost:8501/)
+   ### Streamlit App – Predict Customer Segments  
+[Launch App](https://customer-segmentation-analysis-5fyjxuwsk8umayf5q3slzz.streamlit.app)  
+Enter customer data and get real-time segment predictions powered by a trained KMeans model.
+
+### Dash Dashboard – Visualize Segments  
+[View Dashboard](https://customer-segmentation-dashboard-vkmx.onrender.com)  
+Explore data distributions, cluster characteristics, and behavioral insights.
 
 ---
 
