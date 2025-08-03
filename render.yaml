@@ -1,0 +1,7 @@
+services:
+  - type: web
+    name: customer-segmentation-dashboard
+    env: python
+    buildCommand: pip install -r requirements.txt
+    startCommand: gunicorn dashboard:app
+    plan: free
